@@ -3,7 +3,7 @@
 - 💻 Visit my personal website to find out more about my work: https://camillemminns.wixsite.com/camillem
 - 📫 Contact me at camille.m.minns@gmail.com or camille.minns@tufts.edu
 - 👀 I’m interested in climate justice, renewable energy, tech and community. 
-- 🌱 In 2020, I enrolled in a coding bootcamp for fun and to develop a new skill; the first personal website I developed myself is: https://galgonegreen.netlify.app/
+- 🌱 In 2020, I enrolled in a coding bootcamp to develop a new skill; the first personal website I developed myself is: https://galgonegreen.netlify.app/
 -  I’m actively brushing up on web development and data analysis.
 
 <!---
